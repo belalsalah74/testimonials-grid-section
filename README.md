@@ -10,14 +10,14 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile](./images/sc-mobile.png)
-![Desktop](./images/sc-desktop.png)
+[Mobile](./images/sc-mobile.png)
+[Desktop](./images/sc-desktop.png)
 
 ### Links
 
--[Solution URL:]()
+-[Solution URL](https://www.frontendmentor.io/solutions/testimonials-grid-section-5LnXgXVjOx)
 
-- [Live Site URL:](https://belalsalah74.github.io/testimonials-grid-section/)
+- [Live Site URL](https://belalsalah74.github.io/testimonials-grid-section/)
 
 ### Built with
 
